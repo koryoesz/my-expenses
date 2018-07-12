@@ -7,7 +7,7 @@ A project to pen down expenses based on little details, it also calculates the c
 - Check current details in the dashboard.
 - save to the database using the button "save to database".
 ## Technologies
-- Laravel [documentation](https://laravel.com/docs) PHP Framework.
+- Laravel PHP Framework.
 - Vue
 The Progressive
 JavaScript Framework
